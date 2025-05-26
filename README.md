@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Me chamo Luis Henrique, tenho 18 anos e sou natural de Rondônia. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando um técnologo superior em Sistemas para Internet também no IFRO.
+Me chamo Luis Henrique, tenho 18 anos e sou natural de Rondônia. Concluí o ensino médio no IFRO, com o curso técnico em informática, onde tive meus primeiros contatos com a programação. Atualmente, estou cursando um técnologo superior em Sistemas para Internet também no IFRO.
 
 ---
 
