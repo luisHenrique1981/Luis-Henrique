@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luis Henrique
+# 👨‍💻 Luis Henrique
 
 **`Estudante de Programação`**
 
