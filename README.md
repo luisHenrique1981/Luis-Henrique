@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="float:left; gap: 20px;">
 <div>
     <img src="https://github.com/user-attachments/assets/27c5853a-0ccb-4c7a-9a8b-caf136962083" height="300px"/>
 </div>
