@@ -1,6 +1,6 @@
-<div align:left>
 <div>
-    <img src="https://github.com/user-attachments/assets/27c5853a-0ccb-4c7a-9a8b-caf136962083" height="300px"/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/46811793-eb8d-4fd7-ab12-5e107e6a089f" height="300px"/>
 </div>
 <div>
   <h1>👨‍💻 Luis Henrique</h1>
