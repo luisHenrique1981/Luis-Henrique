@@ -1,4 +1,4 @@
-<div style="float:left; gap: 20px;">
+<div align:left>
 <div>
     <img src="https://github.com/user-attachments/assets/27c5853a-0ccb-4c7a-9a8b-caf136962083" height="300px"/>
 </div>
