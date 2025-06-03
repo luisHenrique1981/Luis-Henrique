@@ -1,5 +1,4 @@
 <div>
-<div>
   <h1>👨‍💻 Luis Henrique</h1>
 
   <strong>Estudante de Programação</strong>
@@ -75,5 +74,4 @@
   />
 
  </p>
-</div>
 </div>
