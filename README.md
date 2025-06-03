@@ -1,7 +1,4 @@
 <div>
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/5d5d7dce-56b0-4b05-88a3-1f5f5b857bf1" height="300px"/>
-</div>
 <div>
   <h1>👨‍💻 Luis Henrique</h1>
 
